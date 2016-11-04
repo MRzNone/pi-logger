@@ -3,7 +3,7 @@
  The code does these following actions:
  
  
-#  1, turn the servo connected to the raspbery pi to poin to the direction set and to turn and take photos
-#  2, take picuture
-#  3, upload pictures
-#  4, count pictures taken
+  1, turn the servo connected to the raspbery pi to poin to the direction set and to turn and take photos\n
+  2, take picuture\n
+  3, upload pictures\n
+  4, count pictures taken\n
